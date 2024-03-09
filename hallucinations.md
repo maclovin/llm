@@ -1,4 +1,4 @@
-llucination Cheat Sheet
+# LLM Hallucination Cheatsheet
 
 ## Types of Contradictions
 
