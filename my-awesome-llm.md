@@ -1,5 +1,11 @@
 # My Awesome LLM
 
+## Notes
+- [Hallucinations](https://github.com/maclovin/llm/blob/main/hallucinations.md)
+- [AI Safety](https://github.com/maclovin/llm/blob/main/ai-safety.md)
+- [Basic Prompt Hacking](https://github.com/maclovin/llm/blob/main/basic-prompt-hacking.md)
+
+
 ## Tools
 - https://github.com/mindsdb/mindsdb
 - https://github.com/ollama/ollama
