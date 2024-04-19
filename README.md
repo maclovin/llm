@@ -1,4 +1,4 @@
-# My Awesome LLM
+# LLM
 
 ## Notes
 - [Hallucinations](https://github.com/maclovin/llm/blob/main/hallucinations.md)
